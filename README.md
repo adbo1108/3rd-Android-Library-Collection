@@ -16,7 +16,8 @@
 
 
 #Database
-##SQLite
+##SQLite ORM
+
 
 ##NoSQL
 
@@ -31,9 +32,12 @@
 ##Debugging
 
 
-###[Logger](https://github.com/orhanobut/logger) 
+###[Logger](https://github.com/orhanobut/logger)  
+
+by [orhanobut](https://github.com/orhanobut)
 
 > Simple,pretty and powerful logger for android 
+
 
 
 **License**
