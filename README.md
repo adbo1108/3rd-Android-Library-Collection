@@ -29,5 +29,8 @@
 
 #Testing/Debugging
 ##Debugging
+Name | Description | License
+-----| ------ | -------
+[Logger](https://github.com/orhanobut/logger) | Simple,pretty and powerful logger for android | Apache License, Version 2.0
 
 ##Testing
