@@ -40,7 +40,7 @@ by [orhanobut](https://github.com/orhanobut)
 
 
 
-**License**
+**License:**
 Apache License, Version 2.0
 
 ##Testing
