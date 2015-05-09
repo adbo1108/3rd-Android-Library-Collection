@@ -33,12 +33,16 @@ by [Koushik Dutta][koush]
 ###[OkHttp](http://square.github.io/okhttp/) 
 by [Square][square]
 
+![OkHttp](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/square/okhttp)
+
 	An HTTP & SPDY client for Android and Java applications
 
 **License:** Apache License, Version 2.0
 
 ###[Retrofit](http://square.github.io/retrofit/)
 by [Square][square]
+
+![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/square/retrofit)
 
 	A type-safe REST client for Android and Java
 
@@ -49,11 +53,15 @@ by [Square][square]
 ###[Fresco](http://frescolib.org/)
 by [Facebook][facebook]
 
+![Fresco](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/facebook/fresco)
+
 	AN IMAGE MANAGEMENT LIBRARY
 
 
 ###[Picasso](http://square.github.io/picasso/)
 by [Square][square]
+
+![Picasso](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/square/picasso)
 
 	A powerful image downloading and caching library for Android
 
