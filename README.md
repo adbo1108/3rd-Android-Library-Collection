@@ -21,7 +21,7 @@
 ###[OkHttp](http://square.github.io/okhttp/)
 by [Square](http://square.github.io/)
 
-*An HTTP & SPDY client for Android and Java applications*
+> An HTTP & SPDY client for Android and Java applications
 
 **License:** Apache License, Version 2.0
 
