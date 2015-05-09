@@ -13,7 +13,7 @@
 	- [Debugging](#debugging)
 	- [Testing](#testing)
 
-*Some libraries may be suited in two or more categories*
+*Some libraries may fit two or more categories*
 
 #Networking
 ##HTTP Request
