@@ -84,7 +84,11 @@ by [greenrobot][greenrobot]
 
 ###Couchbase Lite
 
-###Realm
+###[Realm](http://realm.io/)
+
+by [Realm][realm]
+
+![Realm](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/realm/realm-java)
 
 
 
@@ -92,6 +96,14 @@ by [greenrobot][greenrobot]
 ##Widget
 
 ##Chart
+
+###[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+by [Philipp Jahoda][philjay]
+
+![MPAndroidChart](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/PhilJay/MPAndroidChart)
+
+	A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 
 ##Utilities
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
@@ -137,4 +149,6 @@ by [Facebook][facebook]
 [greenrobot]: https://plus.google.com/+GreenrobotDe/posts
 [jakewharton]: http://jakewharton.com/
 [koush]: http://koush.com/
+[philjay]: https://twitter.com/PhilippJahoda
+[realm]: http://realm.io/
 [square]: http://square.github.io/
