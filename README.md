@@ -116,6 +116,16 @@ by [Realm][realm]
 
 **License:**  Apache 2.0 license
 
+###[SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)
+
+by [Colin Miller][colinmiller]
+
+![SimpleNoSQL](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/Jearil/SimpleNoSQL)
+
+	A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
+
+**License:** Apache License, Version 2.0
+
 ###[SnappyDB](https://github.com/nhachicha/SnappyDB)
 
 by [Nabil Hachicha][nhachicha]
@@ -177,7 +187,7 @@ by [Facebook][facebook]
 **License:**  BSD-licensed
 
 ##Testing
-
+[colinmiller]: http://www.colintmiller.com/
 [couchbase]: http://www.couchbase.com/
 [facebook]: https://code.facebook.com/
 [greenrobot]: https://plus.google.com/+GreenrobotDe/posts
