@@ -42,14 +42,20 @@ Apache License, Version 2.0
 #Testing/Debugging
 ##Debugging
 
-
 ###[Logger](https://github.com/orhanobut/logger)  
 
 by [orhanobut](https://github.com/orhanobut)
 
 > Simple,pretty and powerful logger for android 
 
-**License:**
-Apache License, Version 2.0
+**License:** Apache License, Version 2.0
+
+###[Stetho](http://facebook.github.io/stetho/)
+
+by [Facebook](https://code.facebook.com/)
+
+> A debug bridge for Android applications
+
+**License: **  BSD-licensed
 
 ##Testing
