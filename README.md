@@ -15,7 +15,7 @@
 
 *Some libraries may fit two or more categories.* 
 
-> *Because of GitHub image cache, the repositories' stat will be update once per day*
+> *Because of GitHub image cache, the repositories' stat will be updated once per day*
 
 #Networking
 ##HTTP Request
