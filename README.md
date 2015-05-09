@@ -22,7 +22,7 @@
 
 by [Koushik Dutta][koush]
 
-![ion](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/koush/ion)
+
 
 	Android Asynchronous Networking and Image Loading
 
