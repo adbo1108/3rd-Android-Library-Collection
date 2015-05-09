@@ -105,6 +105,8 @@ by [Philipp Jahoda][philjay]
 
 	A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 
+**License:** Apache License, Version 2.0
+
 ##Utilities
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton][jakewharton]
@@ -123,7 +125,7 @@ Apache License, Version 2.0
 
 ###[Logger](https://github.com/orhanobut/logger)  
 
-by [orhanobut](https://github.com/orhanobut)
+by [Orhan Obut][orhanobut]
 
 ![Logger](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/orhanobut/logger)
 
@@ -149,6 +151,7 @@ by [Facebook][facebook]
 [greenrobot]: https://plus.google.com/+GreenrobotDe/posts
 [jakewharton]: http://jakewharton.com/
 [koush]: http://koush.com/
+[orhanobut]: http://www.orhanobut.com/
 [philjay]: https://twitter.com/PhilippJahoda
 [realm]: http://realm.io/
 [square]: http://square.github.io/
