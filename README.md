@@ -13,7 +13,9 @@
 	- [Debugging](#debugging)
 	- [Testing](#testing)
 
-*Some libraries may fit two or more categories. Because of GitHub image cache, the repositories' stat will be update once per day*
+*Some libraries may fit two or more categories.* 
+
+> *Because of GitHub image cache, the repositories' stat will be update once per day*
 
 #Networking
 ##HTTP Request
