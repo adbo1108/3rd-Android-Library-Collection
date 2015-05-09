@@ -74,6 +74,6 @@ by [Facebook](https://code.facebook.com/)
 
 > A debug bridge for Android applications
 
-**License: **  BSD-licensed
+**License:**  BSD-licensed
 
 ##Testing
