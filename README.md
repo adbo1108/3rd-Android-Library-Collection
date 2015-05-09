@@ -87,6 +87,8 @@ by [greenrobot][greenrobot]
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton][jakewharton]
 
+![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/JakeWharton/butterknife)
+
 	View "injection" library for Android
 
 **License:**
