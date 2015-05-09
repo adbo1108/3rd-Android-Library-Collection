@@ -7,6 +7,7 @@
 - [Widget/UI](#widgetui)
 	- [Widget](#widget)
 	- [Chart](#chart)
+	- [Utilities](#uiUtilities)
 - [Testing/Debugging](#testingdebugging)
 	- [Debugging](#debugging)
 	- [Testing](#testing)
@@ -28,7 +29,7 @@
 
 ##Chart
 
-##Utilities
+##Utilities {#uiUtilities}
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton](http://jakewharton.com/)
 > View "injection" library for Android
