@@ -24,7 +24,7 @@ by [Square](http://square.github.io/)
 
 > An HTTP & SPDY client for Android and Java applications
 
-**License: ** Apache License, Version 2.0
+**License:** Apache License, Version 2.0
 
 ###[Retrofit](http://square.github.io/retrofit/)
 by [Square](http://square.github.io/)
