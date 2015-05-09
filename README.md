@@ -57,6 +57,7 @@ by [Facebook][facebook]
 
 	AN IMAGE MANAGEMENT LIBRARY
 
+**License:**  BSD-licensed
 
 ###[Picasso](http://square.github.io/picasso/)
 by [Square][square]
@@ -82,7 +83,15 @@ by [greenrobot][greenrobot]
 
 ##NoSQL
 
-###Couchbase Lite
+###[Couchbase Lite](http://developer.couchbase.com/mobile/)
+
+by [Couchbase][couchbase]
+
+![Couchbase](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/couchbase/couchbase-lite-android)
+
+	Lightweight, embedded, syncable NoSQL database engine for Android.
+	
+**License:** Apache License 2.0
 
 ###[Realm](http://realm.io/)
 
@@ -90,7 +99,9 @@ by [Realm][realm]
 
 ![Realm](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/realm/realm-java)
 
+	Realm is a mobile database: a replacement for SQLite & ORMs 
 
+**License:**  Apache 2.0 license
 
 #Widget/UI
 ##Widget
@@ -146,7 +157,7 @@ by [Facebook][facebook]
 
 ##Testing
 
-
+[couchbase]: http://www.couchbase.com/
 [facebook]: https://code.facebook.com/
 [greenrobot]: https://plus.google.com/+GreenrobotDe/posts
 [jakewharton]: http://jakewharton.com/
