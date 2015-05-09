@@ -26,14 +26,14 @@ by [Koushik Dutta](http://koush.com/)
 **License:** Apache License, Version 2.0
 
 ###[OkHttp](http://square.github.io/okhttp/)
-by [Square](http://square.github.io/)
+by [Square][square]
 
 	An HTTP & SPDY client for Android and Java applications
 
 **License:** Apache License, Version 2.0
 
 ###[Retrofit](http://square.github.io/retrofit/)
-by [Square](http://square.github.io/)
+by [Square][square]
 
 	A type-safe REST client for Android and Java
 
@@ -42,10 +42,10 @@ by [Square](http://square.github.io/)
 ##Working with Images
 
 ###[Fresco](http://frescolib.org/)
-by [Facebook]()
+by [Facebook][facebook]
 
 ###[Picasso](http://square.github.io/picasso/)
-by [Square]()
+by [Square][square]
 
 	A powerful image downloading and caching library for Android
 
@@ -66,7 +66,7 @@ by [Square]()
 
 ##Utilities
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
-by [Jake Wharton](http://jakewharton.com/)
+by [Jake Wharton][jakewharton]
 	View "injection" library for Android
 
 **License:**
@@ -97,3 +97,5 @@ by [Facebook][facebook]
 
 
 [facebook]: https://code.facebook.com/
+[jakewharton]: http://jakewharton.com/
+[square]: http://square.github.io/
