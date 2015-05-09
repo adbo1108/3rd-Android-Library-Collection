@@ -72,6 +72,7 @@ by [Square][square]
 ##Utilities
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton][jakewharton]
+
 	View "injection" library for Android
 
 **License:**
