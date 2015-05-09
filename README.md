@@ -114,6 +114,14 @@ by [Realm][realm]
 
 **License:**  Apache 2.0 license
 
+###[SnappyDB](https://github.com/nhachicha/SnappyDB)
+
+by [Nabil Hachicha][nhachicha]
+
+![SnappyDB](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/nhachicha/SnappyDB)
+
+**License:** Apache License, Version 2.0
+
 #Widget/UI
 ##Widget
 
@@ -174,6 +182,7 @@ by [Facebook][facebook]
 [jakewharton]: http://jakewharton.com/
 [jankotek]: http://kotek.net/
 [koush]: http://koush.com/
+[nhachicha]: http://nhachicha.wordpress.com/
 [orhanobut]: http://www.orhanobut.com/
 [philjay]: https://twitter.com/PhilippJahoda
 [realm]: http://realm.io/
