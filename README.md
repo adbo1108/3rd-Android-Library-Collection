@@ -18,10 +18,11 @@
 #Networking
 ##HTTP Request
 
-###![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/koush/ion)[ion](https://github.com/koush/ion) <sup>*<sup> ![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/koush/ion)
+###[ion](https://github.com/koush/ion) <sup>*<sup> 
 
 by [Koushik Dutta][koush]
 
+![ion](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/koush/ion)
 
 	Android Asynchronous Networking and Image Loading
 
@@ -29,7 +30,7 @@ by [Koushik Dutta][koush]
 
 \* This may be in [Working with Images](#working-with-images)
 
-###[OkHttp](http://square.github.io/okhttp/) ![](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/koush/ion)
+###[OkHttp](http://square.github.io/okhttp/) 
 by [Square][square]
 
 	An HTTP & SPDY client for Android and Java applications
