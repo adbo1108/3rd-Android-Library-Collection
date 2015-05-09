@@ -13,17 +13,19 @@
 	- [Debugging](#debugging)
 	- [Testing](#testing)
 
-
+*Some libraries may be suited in two or more categories*
 
 #Networking
 ##HTTP Request
 
-###[ion](https://github.com/koush/ion)
+###[ion](https://github.com/koush/ion) <sup>*<sup>
 by [Koushik Dutta][koush]
 
 	Android Asynchronous Networking and Image Loading
 
 **License:** Apache License, Version 2.0
+
+***** This my be in **Working with Images**
 
 ###[OkHttp](http://square.github.io/okhttp/)
 by [Square][square]
