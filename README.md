@@ -71,16 +71,6 @@ by [Square][square]
 #Database
 ##SQLite ORM
 
-###[MapDB](http://www.mapdb.org/)
-
-by [Jan Kotek][jankotek]
-
-![MapDB](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/jankotek/MapDB)
-
-	MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
-	
-**License:**  Apache 2.0 license
-
 ###[greenDAO](http://greendao-orm.com/)
 
 by [greenrobot][greenrobot]
@@ -102,6 +92,17 @@ by [Couchbase][couchbase]
 	Lightweight, embedded, syncable NoSQL database engine for Android.
 	
 **License:** Apache License 2.0
+
+###[MapDB](http://www.mapdb.org/)
+
+by [Jan Kotek][jankotek]
+
+![MapDB](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/jankotek/MapDB)
+
+	MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.
+	
+**License:**  Apache 2.0 license
+
 
 ###[Realm](http://realm.io/)
 
