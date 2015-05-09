@@ -1,7 +1,7 @@
 #Index
 - [Networking](#networking)
-	- [HTTP Request](#httprequest)
-	- [Working with Images](#workingwithimage)
+	- [HTTP Request](#http-request)
+	- [Working with Images](#working-with-images)
 - [Database](#database)
 	- [SQLite](#sqlite)
 	- [NoSQL](#nosql)
