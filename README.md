@@ -19,7 +19,7 @@
 ##HTTP Request
 
 ###[ion](https://github.com/koush/ion)
-by [Koushik Dutta](http://koush.com/)
+by [Koushik Dutta][koush]
 
 	Android Asynchronous Networking and Image Loading
 
@@ -43,6 +43,9 @@ by [Square][square]
 
 ###[Fresco](http://frescolib.org/)
 by [Facebook][facebook]
+
+	AN IMAGE MANAGEMENT LIBRARY
+
 
 ###[Picasso](http://square.github.io/picasso/)
 by [Square][square]
@@ -98,4 +101,5 @@ by [Facebook][facebook]
 
 [facebook]: https://code.facebook.com/
 [jakewharton]: http://jakewharton.com/
+[koush]: http://koush.com/
 [square]: http://square.github.io/
