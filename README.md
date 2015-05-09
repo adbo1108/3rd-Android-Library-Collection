@@ -1,5 +1,4 @@
 #Index
-- [Index](#index)
 - [Networking](#networking)
 	- [HTTP Request](#httprequest)
 	- [Working with Images](#workingwithimage)
