@@ -28,6 +28,16 @@
 
 ##Chart
 
+##Utilities
+###[Butter Knife](http://jakewharton.github.io/butterknife/)
+by [Jake Wharton](http://jakewharton.com/)
+> View "injection" library for Android
+
+**License:**
+Apache License, Version 2.0
+
+
+
 #Testing/Debugging
 ##Debugging
 
@@ -37,8 +47,6 @@
 by [orhanobut](https://github.com/orhanobut)
 
 > Simple,pretty and powerful logger for android 
-
-
 
 **License:**
 Apache License, Version 2.0
