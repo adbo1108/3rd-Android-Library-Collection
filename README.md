@@ -74,6 +74,8 @@ by [Square][square]
 
 by [greenrobot][greenrobot]
 
+![greenDAO](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/greenrobot/greenDAO)
+
 	greenDAO is a light & fast ORM solution that maps objects to SQLite databases.
 
 **License:** Apache License, Version 2.0
@@ -111,6 +113,9 @@ Apache License, Version 2.0
 
 by [orhanobut](https://github.com/orhanobut)
 
+![Logger](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/orhanobut/logger)
+
+
 	Simple,pretty and powerful logger for android
 
 **License:** Apache License, Version 2.0
@@ -118,6 +123,8 @@ by [orhanobut](https://github.com/orhanobut)
 ###[Stetho](http://facebook.github.io/stetho/)
 
 by [Facebook][facebook]
+
+![Stetho](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/facebook/stetho)
 
 	A debug bridge for Android applications
 
