@@ -1,6 +1,8 @@
 #Index
 - [Index](#index)
 - [Networking](#networking)
+	- [HTTP Request](#httprequest)
+	- [Working with Images](#workingwithimage)
 - [Database](#database)
 	- [SQLite](#sqlite)
 	- [NoSQL](#nosql)
@@ -13,8 +15,25 @@
 	- [Testing](#testing)
 
 
-#Networking
 
+#Networking
+##HTTP Request
+
+###[OkHttp](http://square.github.io/okhttp/)
+by [Square](http://square.github.io/)
+
+> An HTTP & SPDY client for Android and Java applications
+
+**License: ** Apache License, Version 2.0
+
+###[Retrofit](http://square.github.io/retrofit/)
+by [Square](http://square.github.io/)
+
+> A type-safe REST client for Android and Java
+
+**License:** Apache License, Version 2.0
+
+##Working with Images
 
 #Database
 ##SQLite ORM
