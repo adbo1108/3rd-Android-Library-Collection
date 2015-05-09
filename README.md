@@ -7,7 +7,7 @@
 - [Widget/UI](#widgetui)
 	- [Widget](#widget)
 	- [Chart](#chart)
-	- [Utilities](#uiUtilities)
+	- [Utilities](#user-content-uiUtilities)
 - [Testing/Debugging](#testingdebugging)
 	- [Debugging](#debugging)
 	- [Testing](#testing)
