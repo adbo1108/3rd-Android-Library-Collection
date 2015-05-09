@@ -25,7 +25,7 @@ by [Koushik Dutta][koush]
 
 **License:** Apache License, Version 2.0
 
-**\*** This my be in `Working with Images`
+**\*** This my be in [Working with Images](#working-with-images)
 
 ###[OkHttp](http://square.github.io/okhttp/)
 by [Square][square]
