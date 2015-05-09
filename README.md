@@ -18,6 +18,13 @@
 #Networking
 ##HTTP Request
 
+###[ion](https://github.com/koush/ion)
+by [Koushik Dutta](http://koush.com/)
+
+	Android Asynchronous Networking and Image Loading
+
+**License:** Apache License, Version 2.0
+
 ###[OkHttp](http://square.github.io/okhttp/)
 by [Square](http://square.github.io/)
 
@@ -28,11 +35,21 @@ by [Square](http://square.github.io/)
 ###[Retrofit](http://square.github.io/retrofit/)
 by [Square](http://square.github.io/)
 
-> A type-safe REST client for Android and Java
+	A type-safe REST client for Android and Java
 
 **License:** Apache License, Version 2.0
 
 ##Working with Images
+
+###[Fresco](http://frescolib.org/)
+by [Facebook]()
+
+###[Picasso](http://square.github.io/picasso/)
+by [Square]()
+
+	A powerful image downloading and caching library for Android
+
+**License:** Apache License, Version 2.0
 
 #Database
 ##SQLite ORM
@@ -50,7 +67,7 @@ by [Square](http://square.github.io/)
 ##Utilities
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton](http://jakewharton.com/)
-> View "injection" library for Android
+	View "injection" library for Android
 
 **License:**
 Apache License, Version 2.0
@@ -64,16 +81,19 @@ Apache License, Version 2.0
 
 by [orhanobut](https://github.com/orhanobut)
 
-> Simple,pretty and powerful logger for android 
+	Simple,pretty and powerful logger for android 
 
 **License:** Apache License, Version 2.0
 
 ###[Stetho](http://facebook.github.io/stetho/)
 
-by [Facebook](https://code.facebook.com/)
+by [Facebook][facebook]
 
-> A debug bridge for Android applications
+	A debug bridge for Android applications
 
 **License:**  BSD-licensed
 
 ##Testing
+
+
+[facebook]: https://code.facebook.com/
