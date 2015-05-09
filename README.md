@@ -29,7 +29,7 @@
 
 ##Chart
 
-##Utilities <a id="uiUtilities"></a>
+##Utilities <i id="uiUtilities"></i>
 ###[Butter Knife](http://jakewharton.github.io/butterknife/)
 by [Jake Wharton](http://jakewharton.com/)
 > View "injection" library for Android
