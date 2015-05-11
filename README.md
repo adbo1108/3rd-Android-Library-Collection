@@ -3,7 +3,7 @@
 	- [HTTP Request](#http-request)
 	- [Working with Images](#working-with-images)
 - [Database](#database)
-	- [SQLite](#sqlite)
+	- [SQLite ORM](#sqlite-orm)
 	- [NoSQL](#nosql)
 - [Widget/UI](#widgetui)
 	- [Widget](#widget)
@@ -15,7 +15,7 @@
 
 *Some libraries may fit two or more categories.* 
 
-Stat images by [RepoStar](http://tuanchauict.github.io/repostar/)
+Stat images by [RepoStarsImage](http://tuanchauict.github.io/repostar/)
 
 #Networking
 ##HTTP Request
@@ -69,6 +69,10 @@ by [Square][square]
 	A powerful image downloading and caching library for Android
 
 **License:** Apache License, Version 2.0
+
+##WebSocket
+
+###[]
 
 #Database
 ##SQLite ORM
