@@ -83,6 +83,16 @@ by [greenrobot][greenrobot]
 
 **License:** Apache License, Version 2.0
 
+###[OrmLite](http://ormlite.com/)
+
+by [Gray Watson][graywatson]
+
+![OrmLite](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/j256/ormlite-android)
+
+	Object Relational Mapping Lite (ORM Lite) provides some simple, lightweight functionality for persisting Java objects to SQL databases while avoiding the complexity and overhead of more standard ORM packages.
+
+**License:** Creative Commons Attribution-Share Alike 3.0 License.
+
 ##NoSQL
 
 ###[Couchbase Lite](http://developer.couchbase.com/mobile/)
@@ -199,3 +209,4 @@ by [Facebook][facebook]
 [philjay]: https://twitter.com/PhilippJahoda
 [realm]: http://realm.io/
 [square]: http://square.github.io/
+[graywatson]: http://256.com/gray/
