@@ -151,6 +151,16 @@ by [Nabil Hachicha][nhachicha]
 #Widget/UI
 ##Widget
 
+###[CardsLib](https://github.com/gabrielemariotti/cardslib)
+
+by [Gabriele Mariotti][gabrielemariotti]
+
+![CardsLib](http://tuan-flask.herokuapp.com/service/star?url=https://github.com/gabrielemariotti/cardslib)
+
+	Card Library provides an easy way to display a UI Card using the Official Google CardView in your Android app.
+
+**License:** Apache License, Version 2.0
+
 ##Chart
 
 ###[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
@@ -214,3 +224,4 @@ by [Facebook][facebook]
 [realm]: http://realm.io/
 [square]: http://square.github.io/
 [graywatson]: http://256.com/gray/
+[gabrielemariotti]: https://plus.google.com/u/0/+GabrieleMariotti/posts
